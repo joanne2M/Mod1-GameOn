@@ -1,0 +1,49 @@
+body{
+    background-color: red;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    border-color: black;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+    border: solid white;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.CardHolders{
+    display: flex;
+    justify-content: space-evenly;
+     
+}
+
+.Text{
+    color: black;
+    justify-content: center;
+    font-size: larger;
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-primary{
+ display: flex;
+ background-color: red;
+ border-color: black;
+ color: whitesmoke;
+ justify-content: center;
+ font-weight: bold;
+ font-size: large;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    color: black;
+
+}
