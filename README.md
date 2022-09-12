@@ -41,8 +41,6 @@ Visit [this page](https://github.com/joanne2M/Mod1-GameOn) to play the game.
 
 ![FinalPageeeee](https://user-images.githubusercontent.com/97330592/189571290-e8fac244-3c52-4a45-9072-db10e7576235.jpg)
 
-(./assets/images/screenshot4.jpg)
-
 - **Health Count Down**. Each player starts off with 0 points per game. If they get a question right it adds 20 points, but if they don't it counts as an error. 
 
 - **Scoring and grading system.**
