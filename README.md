@@ -1,8 +1,8 @@
-https://user-images.githubusercontent.com/97330592/189565439-405131c2-602e-4708-a8d4-a082ea23e305.jpg<br>
+![1](https://user-images.githubusercontent.com/97330592/189565439-405131c2-602e-4708-a8d4-a082ea23e305.jpg) <br>
 
 SPEED DATING</h1>
 
-<h2 align="center">open-source web-based trivia rhythm game</h2>
+<h2 align="center">Open-Source Web-based Speed Trivia Game</h2>
 
 **Speed Dating Trivia Game** is an open-source, online, web-based Speed Dating game written in HTML, CSS, and JavaScript. It is recommended to play this game on Google Chrome.
 
