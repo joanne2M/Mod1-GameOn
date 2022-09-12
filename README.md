@@ -1,4 +1,5 @@
-![1](https://user-images.githubusercontent.com/97330592/189565439-405131c2-602e-4708-a8d4-a082ea23e305.jpg) <br>
+![Start Page](https://user-images.githubusercontent.com/97330592/189571040-2bfa9185-37e6-4ec6-a8a4-9c7a45b20e23.jpg)
+ <br>
 
 <h2 align="center">Open-Source Web-based Speed Trivia Game</h2>
 
