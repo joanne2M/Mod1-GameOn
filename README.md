@@ -25,9 +25,9 @@ gi![screenshot](![44](https://user-images.githubusercontent.com/97330592/1895670
 
 ![screenshot](![Screenshot 2022-09-11 231251](https://user-images.githubusercontent.com/97330592/189567270-dcc07e39-b8d8-4cdb-a44e-d1e9229f8eee.jpg)
 
-- **Press Start Game** You will automatically be Player 1 **Pro-Access(Paid Version)** is **(Player 2)**.
+- **Press Start Game** You will automatically be Player 1 **Pro-Access(Paid Version)** is **(Player 2)** and these people have already submitted their questions.
 
-- Each question = 20 Points | If you get less than 60 points than You Lose, but if you get 3 out of 5 then you win
+- Each question = 20 Points | If you get less than 59 points than You Lose, but if you get 3 out of 5 then you win
 
 ![screenshot](./assets/images/screenshot6.jpg)
 
@@ -48,7 +48,7 @@ gi![screenshot](![44](https://user-images.githubusercontent.com/97330592/1895670
 
 - **Multiple difficulties.** Connecting the values with each question to get a right or wrong answer. 
 
-- **More Add-Ons.** Import Progress Bar, Import Timer, Uploading a Photo for Player 2
+- **More Add-Ons.** Import Progress Bar, Import Timer
 
 - **Accuracy.** Import accuracy grades, such as grades A, B, C, S, and S++.
 
