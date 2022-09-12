@@ -24,7 +24,7 @@ Visit [this page](https://github.com/joanne2M/Mod1-GameOn) to play the game.
 
 ## Quick Tour
 
-![Screenshot 2022-09-11 231251](https://user-images.githubusercontent.com/97330592/189567270-dcc07e39-b8d8-4cdb-a44e-d1e9229f8eee.jpg)
+(https://user-images.githubusercontent.com/97330592/189567270-dcc07e39-b8d8-4cdb-a44e-d1e9229f8eee.jpg)
 
 - **Press Start Game** You will automatically be Player 1 **Pro-Access(Paid Version)** is **(Player 2)** and these people have already submitted their questions.
 
@@ -37,6 +37,9 @@ Visit [this page](https://github.com/joanne2M/Mod1-GameOn) to play the game.
 - Player 2 who has 'Pro Access' already submitted the questions to be asked **1-player mode**. If you get 3 out of 5 questions correct then you can move on to the next round.
 
 - **If You Lose** If you get less than 3 questions right
+- **If You Win** If you get more than 60 Points than you win! 
+
+![FinalPageeeee](https://user-images.githubusercontent.com/97330592/189571290-e8fac244-3c52-4a45-9072-db10e7576235.jpg)
 
 (./assets/images/screenshot4.jpg)
 
