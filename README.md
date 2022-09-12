@@ -19,11 +19,11 @@ Visit [this page](https://github.com/joanne2M/Mod1-GameOn) to play the game.
 
 ## Video Demo
 
-(![44](https://user-images.githubusercontent.com/97330592/189567018-bcbf92e1-b221-419d-8bb4-243381b2d129.jpg)
+![44](https://user-images.githubusercontent.com/97330592/189567018-bcbf92e1-b221-419d-8bb4-243381b2d129.jpg)
 
 ## Quick Tour
 
-(![Screenshot 2022-09-11 231251](https://user-images.githubusercontent.com/97330592/189567270-dcc07e39-b8d8-4cdb-a44e-d1e9229f8eee.jpg)
+![Screenshot 2022-09-11 231251](https://user-images.githubusercontent.com/97330592/189567270-dcc07e39-b8d8-4cdb-a44e-d1e9229f8eee.jpg)
 
 - **Press Start Game** You will automatically be Player 1 **Pro-Access(Paid Version)** is **(Player 2)** and these people have already submitted their questions.
 
