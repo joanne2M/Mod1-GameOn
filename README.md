@@ -1,7 +1,5 @@
 ![1](https://user-images.githubusercontent.com/97330592/189565439-405131c2-602e-4708-a8d4-a082ea23e305.jpg) <br>
 
-SPEED DATING</h1>
-
 <h2 align="center">Open-Source Web-based Speed Trivia Game</h2>
 
 **Speed Dating Trivia Game** is an open-source, online, web-based Speed Dating game written in HTML, CSS, and JavaScript. It is recommended to play this game on Google Chrome.
@@ -27,30 +25,30 @@ gi![screenshot](![44](https://user-images.githubusercontent.com/97330592/1895670
 
 ![screenshot](![Screenshot 2022-09-11 231251](https://user-images.githubusercontent.com/97330592/189567270-dcc07e39-b8d8-4cdb-a44e-d1e9229f8eee.jpg)
 
-- **Player Mode Selection** enables players to pick from **1-player mode** or **2-player mode**.
+- **Player Mode 1* enables players to pick from **1-player mode** or **Pro-Mode(Player 2)**.
 
-- Play along the music with your **keyboard**. 3 keys for each player.
+- Each question = 20 Points | If you get less than 60 points than You Lose, but if you get 3 out of 5 then you win
 
 ![screenshot](./assets/images/screenshot6.jpg)
 
-- **1 Player Mode** gives you a chance to hit the highest score in your record.
+- **1 Player Mode** .
 
-- Player together with friends using **2-player mode**. It helps you start the game at the same time.
+- Player 2 who has 'Pro Access' already submitted the questions to be asked **1-player mode**. If you get 3 out of 5 questions correct then you can move on to the next round.
 
-- **Fully key-sounded.** Each note has its own sound. The music will be decorated by your gameplay.
+- **If You Lose** If you get less than 3 questions right
 
 ![screenshot](./assets/images/screenshot4.jpg)
 
-- **Health Count Down**. Each player will have 5 life points per game. If they miss the note, 1 point will drop. Game over if the life goes to 0.
+- **Health Count Down**. Each player starts off with 0 points per game. If they get a question right it adds 20 points, but if they don't it counts as an error. 
 
 - **Scoring and grading system.**
-  Master the song to get your personal best score or defeat your friend by a higher score.
+  The more questions Player 1 gets right, the better chance they have meeting getting to the next round
 
 ## Unsolved Problem
 
-- **Multiple difficulties.** Each song has multiple difficulties to accommodate every player's skill level. For example, adjustable speed, different note placement, or different life points.
+- **Multiple difficulties.** Connecting the values with each question to get a right or wrong answer. 
 
-- **More Song Choices.** Import more songs into the game.
+- **More Add-Ons.** Import Progress Bar, Import Timer, Uploading a Photo for Player 2
 
 - **Accuracy.** Import accuracy grades, such as grades A, B, C, S, and S++.
 
@@ -64,5 +62,5 @@ before making a change.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-MIT © Sunny Dreamer
+MIT © Joanne/KamaraDaughtry
 
