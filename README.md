@@ -19,17 +19,17 @@ Visit [this page](https://github.com/joanne2M/Mod1-GameOn) to play the game.
 
 ## Video Demo
 
-gi![screenshot](![44](https://user-images.githubusercontent.com/97330592/189567018-bcbf92e1-b221-419d-8bb4-243381b2d129.jpg)
+(![44](https://user-images.githubusercontent.com/97330592/189567018-bcbf92e1-b221-419d-8bb4-243381b2d129.jpg)
 
 ## Quick Tour
 
-![screenshot](![Screenshot 2022-09-11 231251](https://user-images.githubusercontent.com/97330592/189567270-dcc07e39-b8d8-4cdb-a44e-d1e9229f8eee.jpg)
+(![Screenshot 2022-09-11 231251](https://user-images.githubusercontent.com/97330592/189567270-dcc07e39-b8d8-4cdb-a44e-d1e9229f8eee.jpg)
 
 - **Press Start Game** You will automatically be Player 1 **Pro-Access(Paid Version)** is **(Player 2)** and these people have already submitted their questions.
 
 - Each question = 20 Points | If you get less than 59 points than You Lose, but if you get 3 out of 5 then you win
 
-![screenshot](./assets/images/screenshot6.jpg)
+(./assets/images/screenshot6.jpg)
 
 - **1 Player Mode** .
 
@@ -37,7 +37,7 @@ gi![screenshot](![44](https://user-images.githubusercontent.com/97330592/1895670
 
 - **If You Lose** If you get less than 3 questions right
 
-![screenshot](./assets/images/screenshot4.jpg)
+(./assets/images/screenshot4.jpg)
 
 - **Health Count Down**. Each player starts off with 0 points per game. If they get a question right it adds 20 points, but if they don't it counts as an error. 
 
