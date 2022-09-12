@@ -30,13 +30,14 @@ Visit [this page](https://github.com/joanne2M/Mod1-GameOn) to play the game.
 
 - Each question = 20 Points | If you get less than 59 points than You Lose, but if you get 3 out of 5 then you win
 
-(./assets/images/screenshot6.jpg)
-
 - **1 Player Mode** .
 
 - Player 2 who has 'Pro Access' already submitted the questions to be asked **1-player mode**. If you get 3 out of 5 questions correct then you can move on to the next round.
 
 - **If You Lose** If you get less than 3 questions right
+
+![canva](https://user-images.githubusercontent.com/97330592/189571618-6dd7ccfa-19ac-4d61-b48b-0aac097b17c7.jpg)
+
 - **If You Win** If you get more than 60 Points than you win! 
 
 ![FinalPageeeee](https://user-images.githubusercontent.com/97330592/189571290-e8fac244-3c52-4a45-9072-db10e7576235.jpg)
