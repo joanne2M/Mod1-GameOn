@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/97330592/189565439-405131c2-602e-4708-a8d4-a082ea23e305.jpg)<br>
+https://user-images.githubusercontent.com/97330592/189565439-405131c2-602e-4708-a8d4-a082ea23e305.jpg<br>
 
 SPEED DATING</h1>
 
