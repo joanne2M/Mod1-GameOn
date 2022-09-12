@@ -1,5 +1,5 @@
 <h1 align="center"><img src="![1](https://user-images.githubusercontent.com/97330592/189565439-405131c2-602e-4708-a8d4-a082ea23e305.jpg)
-"  height="162" /><br>GAME MASTER</h1>
+"  height="162" /><br>SPEED DATING</h1>
 
 <h2 align="center">open-source web-based trivia rhythm game</h2>
 
